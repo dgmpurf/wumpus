@@ -1,4 +1,4 @@
-#
+# WUMPUS
 Your agent should do the following. 
 1. In addition to the agent’s state information, you should also keep track of stench locations, the Wumpus location, the gold location, any pit locations, visited locations, safe locations, and the world size, as this information becomes known. You will be playing each world for multiple tries, so keeping track of what you learned from previous tries is useful (and required).
 2. You should update location information as you visit new locations: 
